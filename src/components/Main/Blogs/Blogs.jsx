@@ -10,11 +10,12 @@ const Blogs = () => {
         .then(data => setBlogs(data))
     },[])
     return (
-        <div>
-            <h3>Blogs: {blogs.length}</h3>
+        <div >
+            <h3>Blogs: {blogs.length}</h3>  
            {
-            blogs.map(blog=> <Blog key={blogs.id} blogs={blog}></Blog>)
+            blogs.map(blog=> <Blog key={blogs.id} blog={blog}></Blog>)
            }
+          
         </div>
     );
 };
