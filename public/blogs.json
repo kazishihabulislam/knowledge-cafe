@@ -3,23 +3,25 @@
     "id": 1,
     "user_id": 101,
     "name": "John Son",
+    "type": "Debugging Guru",
     "username": "johnson",
-    "user_profile": "https://i.ibb.co.com/z6W9FfW/aatik-tasneem-7om-HUGhhm-Z0-unsplash.jpg",
+    "profile_image": "https://i.ibb.co.com/mXZK4jH/alex-suprun-b-YODy-Sp-LIh-E-unsplash.jpg",
     "title": "React Basics: Creating and Nesting Components",
     "blog_id": 1001,
     "header": "Learn How to Create and Nest Components in React",
     "description": "In this blog, we explore how to break your UI into reusable components and nest them effectively to build scalable React applications.",
-    "cover": "https://i.ibb.co.com/gStVmvv/aral-tasher-v-Wsubsaym3o-unsplash.jpg",
+    "cover_image": "https://i.ibb.co.com/WK8t5T1/roman-synkevych-v-XIn-UOv1n84-unsplash.jpg",
     "hashtag": ["#React", "#Components", "#Beginner"],
     "reading_time": 5 ,
-    "posted_date": "2025-01-01"
+    "posted_date": "3 March 2025"
   },
   {
     "id": 2,
     "user_id": 102,
     "name": "Jane Smith",
+    "type": "Algorithm Enthusiast",
     "username": "janesmith",
-    "user_profile": "https://i.ibb.co.com/B2s0kG2/alexander-hipp-i-EEBWg-Y-6l-A-unsplash.jpg",
+    "profile_image": "https://i.ibb.co.com/B2s0kG2/alexander-hipp-i-EEBWg-Y-6l-A-unsplash.jpg",
     "title": "How to Add Markup and Styles in React",
     "blog_id": 1002,
     "header": "Styling React Components: A Complete Guide",
@@ -27,29 +29,31 @@
     "cover_image": "https://i.ibb.co.com/Y8XPY75/lautaro-andreani-UYs-BCu9-RP3-Y-unsplash.jpg",
     "hashtag": ["#React", "#CSS", "#Styling"],
     "reading_time": 7 ,
-    "posted_date": "2025-01-02"
+    "posted_date": "14 July 2025"
   },
   {
     "id": 3,
     "user_id": 103,
     "name": "React Wizard",
     "username": "reactwizard",
-    "profile_image": "https://i.ibb.co.com/mXZK4jH/alex-suprun-b-YODy-Sp-LIh-E-unsplash.jpg",
+    "type": "Project Builder",
+    "profile_image": "https://i.ibb.co.com/DK4wHjd/cesar-rincon-XHVp-Wcr5gr-Q-unsplash.jpg",
     "title": "Displaying Data in React",
     "blog_id": 1003,
     "header": "A Guide to Displaying Data Dynamically",
     "description": "Learn how to use JSX and props to display dynamic data in your React applications.",
-    "cover_image": "https://i.ibb.co.com/y0qrTKH/nubelson-fernandes-Uc-YBL5-V0x-WQ-unsplash.jpg",
+    "cover_image": "https://i.ibb.co.com/7vsbFwb/roman-synkevych-w-X2-L8-L-f-Ge-A-unsplash.jpg",
     "hashtag": ["#React", "#DataBinding", "#Props"],
     "reading_time": 6 ,
-    "posted_date": "2025-01-03"
+    "posted_date": "8 October 2024"
   },
   {
     "id": 4,
     "user_id": 104,
     "name": "Code Master",
     "username": "codemaster",
-    "profile_image": "https://i.ibb.co.com/HXPc82f/andre-hunter-zw-Xuz-Fr3m-Ls-unsplash.jpg",
+    "type": "Code Reviewer",
+    "profile_image": "https://i.ibb.co.com/B2s0kG2/alexander-hipp-i-EEBWg-Y-6l-A-unsplash.jpg",
     "title": "Rendering Conditions and Lists in React",
     "blog_id": 1004,
     "header": "Master Conditional Rendering and Lists",
@@ -57,14 +61,15 @@
     "cover_image": "https://i.ibb.co.com/qYpH898/pexels-cottonbro-6803554.jpg",
     "hashtag": ["#React", "#ConditionalRendering", "#Lists"],
     "reading_time": 8 ,
-    "posted_date": "2025-01-04"
+    "posted_date": "19 May 2024"
   },
   {
     "id": 5,
     "user_id": 105,
     "name": "Dev Guru",
     "username": "devguru",
-    "profile_image": "https://i.ibb.co.com/ZStdb5J/ant-rozetsky-BTG1p-MOVx68-unsplash.jpg",
+    "type": "Hacker",
+    "profile_image": "https://i.ibb.co.com/mXZK4jH/alex-suprun-b-YODy-Sp-LIh-E-unsplash.jpg",
     "title": "Handling Events and Updating the Screen in React",
     "blog_id": 1005,
     "header": "React Event Handling Made Easy",
@@ -72,14 +77,15 @@
     "cover_image": "https://i.ibb.co.com/XxXXcVz/pexels-cottonbro-7441387-1.jpg",
     "hashtag": ["#React", "#EventHandling", "#InteractiveUI"],
     "reading_time": 7 ,
-    "posted_date": "2025-01-05"
+    "posted_date": "5 January 2025"
   },
   {
     "id": 6,
     "user_id": 106,
     "name": "Frontend Ninja",
     "username": "frontendninja",
-    "profile_image": "https://i.ibb.co.com/tB8Qgyk/ayo-ogunseinde-sib-Vw-ORYqs0-unsplash.jpg",
+    "type": "Framework Expert",
+    "profile_image": "https://i.ibb.co.com/DK4wHjd/cesar-rincon-XHVp-Wcr5gr-Q-unsplash.jpg",
     "title": "Sharing Data Between Components in React",
     "blog_id": 1006,
     "header": "Props, Context, and State Management",
@@ -87,14 +93,15 @@
     "cover_image": "https://i.ibb.co.com/XyNzLkm/pexels-cottonbro-7441740.jpg",
     "hashtag": ["#React", "#StateManagement", "#Props"],
     "reading_time": 9 ,
-    "posted_date": "2025-01-06"
+    "posted_date": "2 February 2024"
   },
   {
     "id": 7,
     "user_id": 107,
     "name": "JS Pro",
     "username": "jspro",
-    "profile_image": "https://i.ibb.co.com/G7Pw7dY/brantley-neal-UVUMHL-Dz-VM-unsplash.jpg",
+    "type": "Framework Expert",
+    "profile_image": "https://i.ibb.co.com/mXZK4jH/alex-suprun-b-YODy-Sp-LIh-E-unsplash.jpg",
     "title": "React State and Lifecycle Basics",
     "blog_id": 1007,
     "header": "Mastering State and Lifecycle in React",
@@ -102,44 +109,47 @@
     "cover_image": "https://i.ibb.co.com/zFyYgmC/pexels-hiteshchoudhary-1261427.jpg",
     "hashtag": ["#React", "#State", "#Lifecycle"],
     "reading_time": 8 ,
-    "posted_date": "2025-01-07"
+    "posted_date": "20 August 2024"
   },
   {
     "id": 8,
     "user_id": 108,
     "name": "Code Crafter",
     "username": "codecrafter",
+    "type": "Language Specialist",
     "profile_image": "https://i.ibb.co.com/DK4wHjd/cesar-rincon-XHVp-Wcr5gr-Q-unsplash.jpg",
     "title": "Using Context API for State Management",
     "blog_id": 1008,
     "header": "Simplify State Management with React Context",
     "description": "Learn how to use the Context API to manage global state in your React apps without external libraries.",
-    "cover_image": "https://i.ibb.co.com/BLG3PLP/pexels-luis-gomes-166706-546819.jpg",
+    "cover_image": "https://i.ibb.co.com/Bcx1vp4/chris-ried-ieic5-Tq8-YMk-unsplash.jpg",
     "hashtag": ["#React", "#ContextAPI", "#StateManagement"],
     "reading_time": 10 ,
-    "posted_date": "2025-01-08"
+    "posted_date": "20 September 2024"
   },
   {
     "id": 9,
     "user_id": 109,
     "name": "React Dev",
     "username": "reactdev",
-    "profile_image": "https://i.ibb.co.com/c2HxB5r/emiliano-vittoriosi-VA1-XTUtyf-A0-unsplash.jpg",
+    "type": "Framework Expert",
+    "profile_image": "https://i.ibb.co.com/DK4wHjd/cesar-rincon-XHVp-Wcr5gr-Q-unsplash.jpg",
     "title": "Getting Started with React Hooks",
     "blog_id": 1009,
     "header": "React Hooks: The Modern Way",
     "description": "Discover how to use React Hooks like useState, useEffect, and more to build functional components.",
-    "cover_image": "https://i.ibb.co.com/xS8j75g/pexels-mikhail-nilov-7988749.jpg",
+    "cover_image": "https://i.ibb.co.com/fdK9STs/pexels-realtoughcandy-11035363.jpg",
     "hashtag": ["#React", "#Hooks", "#ModernReact"],
     "reading_time": 7 ,
-    "posted_date": "2025-01-09"
+    "posted_date": "4 July 2023"
   },
   {
     "id": 10,
     "user_id": 110,
     "name": "React Guru",
     "username": "reactguru",
-    "profile_image": "https://i.ibb.co.com/NnWtwy8/gabriel-silverio-u3-Wm-Dy-KGsr-Y-unsplash.jpg",
+    "type": "Test-Driven Developer",
+    "profile_image": "https://i.ibb.co.com/B2s0kG2/alexander-hipp-i-EEBWg-Y-6l-A-unsplash.jpg",
     "title": "Optimizing React Applications",
     "blog_id": 1010,
     "header": "Performance Optimization in React",
@@ -147,14 +157,15 @@
     "cover_image": "https://i.ibb.co.com/rZYpLMG/pexels-padrinan-1591061.jpg",
     "hashtag": ["#React", "#Performance", "#Optimization"],
     "reading_time": 10 ,
-    "posted_date": "2025-01-10"
+    "posted_date": "23 February 2024"
   },
   {
     "id": 11,
     "user_id": 111,
     "name": "Coding Queen",
     "username": "codingqueen",
-    "profile_image": "https://i.ibb.co.com/VpwyNjX/guillaume-bolduc-D929-R3i3-Ai4-unsplash.jpg",
+    "type": "Design Pattern Pro",
+    "profile_image": "https://i.ibb.co.com/mXZK4jH/alex-suprun-b-YODy-Sp-LIh-E-unsplash.jpg",
     "title": "Understanding JSX in React",
     "blog_id": 1011,
     "header": "The Basics of JSX in React",
@@ -162,14 +173,15 @@
     "cover_image": "https://i.ibb.co.com/fdK9STs/pexels-realtoughcandy-11035363.jpg",
     "hashtag": ["#React", "#JSX", "#Frontend"],
     "reading_time": 6 ,
-    "posted_date": "2025-01-11"
+    "posted_date": "12 May 2024"
   },
   {
     "id": 12,
     "user_id": 112,
     "name": "Tech Whiz",
     "username": "techwhiz",
-    "profile_image": "https://i.ibb.co.com/t4v73QP/jennifer-bedoya-Ut-Av-Ngw-Sw-X4-unsplash.jpg",
+    "type": "Performance Optimizer",
+    "profile_image": "https://i.ibb.co.com/DK4wHjd/cesar-rincon-XHVp-Wcr5gr-Q-unsplash.jpg",
     "title": "React Router: Navigating Between Pages",
     "blog_id": 1012,
     "header": "Building Multi-Page Apps with React Router",
@@ -177,14 +189,15 @@
     "cover_image": "https://i.ibb.co.com/yhLzJNt/pexels-realtoughcandy-11035380.jpg",
     "hashtag": ["#React", "#Router", "#Navigation"],
     "reading_time": 9 ,
-    "posted_date": "2025-01-11"
+    "posted_date": "5 June 2024"
   },
   {
     "id": 13,
     "user_id": 113,
     "name": "Code Lover",
     "username": "codelover",
-    "profile_image": "https://i.ibb.co.com/BTbhf39/joseph-gonzalez-i-Fg-Rcq-Hznqg-unsplash.jpg",
+    "type": "Framework Expert",
+    "profile_image": "https://i.ibb.co.com/mXZK4jH/alex-suprun-b-YODy-Sp-LIh-E-unsplash.jpg",
     "title": "React Forms: Controlled and Uncontrolled Components",
     "blog_id": 1013,
     "header": "Mastering Forms in React",
@@ -192,14 +205,15 @@
     "cover_image": "https://i.ibb.co.com/h2M9J83/pexels-realtoughcandy-11035386.jpg",
     "hashtag": ["#React", "#Forms", "#InputHandling"],
     "reading_time": 8 ,
-    "posted_date": "2025-01-11"
+    "posted_date": "10 January 2024"
   },
   {
     "id": 14,
     "user_id": 114,
     "name": "Full Stack Hero",
     "username": "fullstackhero",
-    "profile_image": "https://i.ibb.co.com/HDqDkBd/lesly-juarez-Ruk-I4q-ZGl-Qs-unsplash.jpg",
+    "type": "Language Specialist",
+    "profile_image": "https://i.ibb.co.com/B2s0kG2/alexander-hipp-i-EEBWg-Y-6l-A-unsplash.jpg",
     "title": "Integrating APIs in React Applications",
     "blog_id": 1014,
     "header": "Fetch and Display API Data in React",
@@ -207,14 +221,15 @@
     "cover_image": "https://i.ibb.co.com/VqDSZxC/pexels-realtoughcandy-11035473.jpg",
     "hashtag": ["#React", "#API", "#Integration"],
     "reading_time": 10 ,
-    "posted_date": "2025-01-11"
+    "posted_date": "20 April 2024"
   },
   {
     "id": 15,
     "user_id": 115,
     "name": "Web Nerd",
     "username": "webnerd",
-    "profile_image": "https://i.ibb.co.com/YbKBrp5/venrick-azcueta-Pzr-UNCZzp-k-unsplash.jpg",
+    "type": "Performance Optimizer",
+    "profile_image": "https://i.ibb.co.com/mXZK4jH/alex-suprun-b-YODy-Sp-LIh-E-unsplash.jpg",
     "title": "Testing React Components",
     "blog_id": 1015,
     "header": "A Guide to Testing React Apps",
@@ -222,7 +237,7 @@
     "cover_image": "https://i.ibb.co.com/q9J4HXz/rahul-mishra-a-Zsn0b-JYq-BU-unsplash.jpg",
     "hashtag": ["#React", "#Testing", "#Jest"],
     "reading_time": 9,
-    "posted_date": "2025-01-11"
+    "posted_date": "20 May 2024"
   }  
   ]
   
